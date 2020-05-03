@@ -7,7 +7,7 @@ Windows音乐播放器
 4.显示歌曲列表（部分+全部）
 5.在歌曲列表中选中某首歌播放
 
-![](https://github.com/hzhangamaze/Games_pygame/blob/master/show_images/MusicPlayer1.PNG)
+![Interface1](https://gitee.com/dugujjiujian/Games_pygame/blob/master/show_images/MusicPlayer1.PNG)
 
 ![Interface2](https://github.com/hzhangamaze/Games_pygame/blob/master/show_images/MusicPlayer2.gif)
 
