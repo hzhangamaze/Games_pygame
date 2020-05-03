@@ -1,3 +1,6 @@
+工具：Python2/3，pygame（pip install pygame）
+
+
 一、Windows音乐播放器
 
 功能：
